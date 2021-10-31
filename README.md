@@ -28,7 +28,7 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
