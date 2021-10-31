@@ -24,11 +24,11 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 ## 🌐 Social
 
 - [![Facebook][1.2]][1]
-- [![LinkedIn][3.2]][3].
+- [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
