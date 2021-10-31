@@ -1,9 +1,14 @@
-# Hi there 👋, I'm fcarli3!
+# Hi there 👋🏼, I'm fcarli3!
 My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 
 ## 🧑🏻‍💻 About me
 - 🎓 B.Sc in Computer Science @ University of Pisa
 - 🎓 M.Sc student in Cybersecurity @ University of Pisa
+
+### Hobbies
+- ⚽
+- 🏋🏽‍♂️
+- 🤿
 
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcarli3&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +19,7 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 
 ## ⚙️ Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=CXX&logoColor=white&color=2bbc8a)
@@ -24,7 +29,7 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 ## 🌐 Social
 
 - [![Facebook][1.2]][1]
-- [![LinkedIn][2.2]][2].
+- [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
