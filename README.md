@@ -1,4 +1,4 @@
-## Hi there 👋, I'm fcarli3!
+# Hi there 👋, I'm fcarli3!
 
 <!--
 **fcarli3/fcarli3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
