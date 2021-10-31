@@ -6,6 +6,6 @@ My name is Francesco and I'm a CS student from Italy.
 - 🎓 M.Sc in Cybersecurity @ University of Pisa
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcarli3&langs_count=8)](https://github.com/fcarli3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcarli3&langs_count=8&layout=compact)](https://github.com/fcarli3/github-readme-stats)
 
 
