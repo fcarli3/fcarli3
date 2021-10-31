@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 B.Sc in Computer Science @ University of Pisa
-🎓 M.Sc in Cybersecurity @ University of Pisa
+## 🧑🏻‍💻 About me
+- 🎓 B.Sc in Computer Science @ University of Pisa
+- 🎓 M.Sc in Cybersecurity @ University of Pisa
