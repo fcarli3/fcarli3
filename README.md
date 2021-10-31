@@ -6,7 +6,7 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 - 🎓 M.Sc student in Cybersecurity @ University of Pisa
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcarli3&count_private=true&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcarli3&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Programming Languages
