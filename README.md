@@ -13,7 +13,7 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcarli3&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
 
 
