@@ -14,12 +14,27 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 
 ## ⚙️ Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=CXX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=ba&sh&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+
+## 🌐 Social
+
+- [![Facebook][1.2]][1]
+- [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.facebook.com/francesco.carli.52
+[2]: https://www.linkedin.com/in/francesco-carli-3b96111b8/
 
 
 
