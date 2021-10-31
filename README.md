@@ -19,6 +19,7 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 
 ## ⚙️ Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-KaliLinux-informational?style=flat&logo=KaliLinux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
