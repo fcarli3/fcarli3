@@ -1,4 +1,4 @@
-# Hi there 👋🏼, I'm fcarli3!
+# Hi there 👋🏻, I'm fcarli3!
 My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 
 ## 🧑🏻‍💻 About me
