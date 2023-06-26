@@ -30,6 +30,10 @@ My name is Francesco and I'm a CS and Cybersecurity student from Italy.
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=Grafana&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Microsoft-SQL-Server-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=2bbc8a)
 
 ## 🌐 Social
 
