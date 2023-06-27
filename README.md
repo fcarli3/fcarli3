@@ -1,9 +1,9 @@
 # Hi there 👋🏻, I'm fcarli3!
-My name is Francesco and I'm a CS and Cybersecurity student from Italy.
+My name is Francesco and I am graduated with honors in a M.Sc. in Cybersecurity at University of Pisa.
 
 ## 🧑🏻‍💻 About me
 - 🎓 B.Sc in Computer Science @ University of Pisa
-- 🎓 M.Sc student in Cybersecurity @ University of Pisa
+- 🎓 M.Sc in Cybersecurity @ University of Pisa
 
 ### Hobbies
 - ⚽ Football
